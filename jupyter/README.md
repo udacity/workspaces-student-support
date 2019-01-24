@@ -13,4 +13,4 @@ with active_session():
     # do long-running work here
 ```
 
-You can also cut and paste the code into a new file from  [https://raw.githubusercontent.com/udacity/workspaces-student-support/master/jupyter/workspace_utils.py](raw). Make sure you call the file `workspace_utils.py`.
+You can also cut and paste the code from the "raw" view of the `workspace_utils.py` file in this directory into a new file, instead of cloning this repo. Make sure you name the new file `workspace_utils.py`.
