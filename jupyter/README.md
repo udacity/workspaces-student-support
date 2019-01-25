@@ -13,7 +13,7 @@ with active_session():
     # do long-running work here
 ```
 
-You can also get the file directly like this:
+You can also get the file directly from a Jupyter terminal like so:
 ```
-curl https://raw.githubusercontent.com/udacity/workspaces-student-support/master/jupyter/workspace_utils.py
+curl -O https://raw.githubusercontent.com/udacity/workspaces-student-support/master/jupyter/workspace_utils.py
 ```
